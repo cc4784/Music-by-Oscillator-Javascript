@@ -1,4 +1,4 @@
-Music Via JS
+Making music by Oscillator
 
 An interactive, generative ambient music system built using **pure JavaScript** and the **Web Audio API**. It creates evolving harmonic textures with animated visualizations that show what’s being played in real time.
 
@@ -30,10 +30,3 @@ This project is split into modules for flexibility:
 
 > *Note: works best on desktop Chrome/Edge/Firefox with audio enabled.*
 
-## Locally running
-
-1. Clone this repo:
-```bash
-git clone https://github.com/cc4784/MusicViaJS.git
-cd MusicViaJS
-npx serve .
